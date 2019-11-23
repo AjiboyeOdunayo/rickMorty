@@ -1,0 +1,62 @@
+body{
+	background-color: white;
+	width: 100%;
+
+}
+.navbar{
+	text-decoration:none;
+	color:red;
+    width: 100%;
+    padding-top: 10px;
+    color: black;
+	
+}
+.navbar a{
+	color: black;
+	/*position: fixed;*/
+}
+img{
+	margin-left:50px;
+}
+
+.card-body{
+	background-color:/*#333333*/grey;
+	padding: 1px;
+	color: white;
+    padding: 5px;
+    font-size:15px;
+
+	/*margin: 10px;*/
+	/*box-sizing: inherit;*/
+}
+
+#card-title{
+	color: grey;
+	padding: 5px;
+}
+.navbar{
+	background-color:white;
+	color: black;
+}
+.container{
+	color: black;
+}
+ .fat{
+	text-align: center;
+	margin-top: 100px;
+	font-size: 3.75rem;
+
+}
+.fah{
+	text-align: center;
+	background-color:black;
+	color: #ff9800;
+	font-size: 3rem;
+	padding: 10px;
+	margin: 100px;
+	/*margin-top: 20px;*/
+
+margin-top: 1.625rem;
+
+
+}
